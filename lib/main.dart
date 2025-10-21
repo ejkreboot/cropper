@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:desktop_drop/desktop_drop.dart';
 import 'package:image/image.dart' as img;
-import 'package:file_picker/file_picker.dart';
 
 void main() {
   runApp(const CropperApp());
